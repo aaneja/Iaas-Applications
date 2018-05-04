@@ -1,2 +1,2 @@
-sudo service ssh stop
-sudo service ssh start
+sudo service sshd stop
+sudo service sshd start
